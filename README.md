@@ -1,4 +1,4 @@
-# proxy_finder
+# Proxy Finder
 _______________________________________________
 Get a working proxy list in a matter of seconds
 _______________________________________________
